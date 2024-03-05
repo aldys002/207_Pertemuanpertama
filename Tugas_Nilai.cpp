@@ -7,7 +7,7 @@ int main()
     string status;
     cout << "Nilai Matematika = " << endl;
     cin >> matematika;
-    cout << "Masukkan Fisika = " << endl;
+    cout << "Nilai Fisika = " << endl;
     cin >> fisika;
     rerata = (matematika + fisika) / 2;
     if (matematika >= 70)
@@ -24,8 +24,5 @@ int main()
     }
 
     cout << "Rerata = " << rerata << endl;
-    cout << "Status Kelulusan = " << status << endl
-    
-
-
+    cout << "Status Kelulusan = " << status << endl;
 }
