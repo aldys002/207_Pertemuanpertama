@@ -26,3 +26,4 @@ int main()
     cout << "Rerata = " << rerata << endl;
     cout << "Status Kelulusan = " << status << endl;
 }
+// pertemuan ke 2
